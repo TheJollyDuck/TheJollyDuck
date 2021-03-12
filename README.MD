@@ -36,6 +36,7 @@ In terms of hobbies, I quite like messing with Mod Tackers like OpenMPT, and Pix
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" height="32">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" height="32">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/lua/lua.png" height="32">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" height = 35>
 </p>
 
 ---
