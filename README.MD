@@ -65,7 +65,7 @@ In terms of hobbies, I quite like messing with Mod Tackers like OpenMPT, and Pix
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Linear_Technology.svg/1280px-Logo_Linear_Technology.svg.png" height = 25>
 </p>
 
-### Hobbies Tool
+### Hobby Tools
 
 <p float="left">
 <img src = "https://pbs.twimg.com/profile_images/875731732389146624/-UznwnAx_400x400.jpg" height = 32>
