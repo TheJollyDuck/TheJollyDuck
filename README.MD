@@ -40,6 +40,7 @@ In terms of hobbies, I quite like messing with Mod Tackers like OpenMPT, and Pix
 </p>
 
 ---
+<!---
 ## Tools I use
 
 ### Programming  
@@ -75,5 +76,5 @@ In terms of hobbies, I quite like messing with Mod Tackers like OpenMPT, and Pix
 </p>
 
 ---
-
+-->
 <!-- <img src =  height = 32>  -->
