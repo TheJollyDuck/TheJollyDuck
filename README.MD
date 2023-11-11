@@ -4,7 +4,7 @@
 # Hey, Welcome!
 
 Hello welcome to my GitHub Profile!  
-I'm currently a Third Year Electronic Engineering studnet.
+I'm currently a Masters Electronic Engineering studnet.
 
 I love working with computers, both in hardware and in software (proficient in both Windows & Linux), and electronics as well.
 
